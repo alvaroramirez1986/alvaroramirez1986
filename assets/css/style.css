@@ -1,0 +1,106 @@
+html {
+  scroll-behavior: smooth;
+}
+
+nav {
+	background-color:#660066;
+}
+
+.nav-link{
+	font-family: 'Amatic SC', cursive;
+	font-weight:400;
+	font-size:20px;
+	color:#ffffff;
+	
+}
+
+.navbar-brand{
+	font-family: 'Cabin Sketch', cursive;
+	font-weight:400;
+	font-size:30px;
+	color:#ffffff;
+	
+}
+
+.acceder{
+	font-family: 'Amatic SC', cursive;
+	font-weight:400;
+	font-size:20px;
+	color:#ffffff;
+	
+}
+
+.carousel-inner img {
+    width: 100%;
+    max-height: 590px;
+}
+
+.text-info{
+	font-family: 'Cabin', sans-serif;
+	font-weight:400;
+	font-size:28px;
+}
+
+.trabajos {
+	background-color:#660066;
+    width:100%;
+}
+
+h1{
+	font-family: 'Cabin Sketch', cursive;
+	font-weight:400;
+	font-size:52px;
+	color:#ffffff;
+}
+
+.card-body{
+	text-align:left;
+}
+
+.card-title{
+	font-family: 'Cabin', sans-serif;
+	font-weight:700;
+	font-size:23px;
+	color:#373A3C;
+}
+
+.card-text{
+	font-family:font-family: 'Cabin', sans-serif;
+	font-weight:400;
+	font-size:14px;
+	color:#373A3C;
+}
+
+.contacto{
+	font-family: 'Cabin Sketch', cursive;
+	font-weight:400;
+	font-size:30px;
+	color:#000000;
+	
+}
+
+.footer {
+	background-color:#660066;
+	height:150px;
+	text-align:center;
+	padding-top:50px;
+}
+
+.logo{
+	font-family: 'Cabin Sketch', cursive;
+	font-weight:400;
+	font-size:40px;
+	color:#ffffff;	
+}
+
+.fab{
+	color:#ffffff;
+}
+
+@media (max-width: 576px) { .logo {display: none !important;}
+	   #carouselExampleIndicators 	{display: none !important;} }
+
+
+
+
+
